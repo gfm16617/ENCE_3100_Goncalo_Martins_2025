@@ -26,3 +26,7 @@ I needed to modified the assignment in order to have a 2-to-1 multiplixer of 4bi
 <img src="img/picture_3.png" width="400">
 
 <img src="img/picture_4.png" width="500">
+
+## Part III
+
+
