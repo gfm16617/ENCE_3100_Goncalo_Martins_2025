@@ -1,3 +1,11 @@
+<!-- TOC start (generated with https://github.com/derlin/bitdowntoc) -->
+
+- [Lab 1 Report](#lab-1-report)
+   * [Part I](#part-i)
+   * [Part II](#part-ii)
+
+<!-- TOC end -->
+
 # Lab 1 Report
 
 For this report we are using the DE10-Lite board from Altera.
