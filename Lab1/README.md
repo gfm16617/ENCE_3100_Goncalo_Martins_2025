@@ -21,4 +21,8 @@ This answer was modified in order to meet the I/Os that the DE10-Lite board has 
 
 I needed to modified the assignment in order to have a 2-to-1 multiplixer of 4bits instead of 8bits
 
+<img src="img/picture_2.png" width="300">
 
+<img src="img/picture_3.png" width="400">
+
+<img src="img/picture_4.png" width="500">
