@@ -29,4 +29,8 @@ I needed to modified the assignment in order to have a 2-to-1 multiplixer of 4bi
 
 ## Part III
 
+For this part, instead of using the switches to the input of the multiplexer, I provided fixed values.
 
+<img src="img/picture_6.png" width="300">
+
+> ⚠️ **Warning:** There is a major flaw in this implementation. The selects on the multiplexer have 8 possible combinations and the multiplexer only reflects 5. What happens when I input something that is not represented in the code?
