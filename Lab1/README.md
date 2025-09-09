@@ -33,4 +33,4 @@ For this part, instead of using the switches to the input of the multiplexer, I 
 
 <img src="img/picture_6.png" width="300">
 
-> ⚠️ **Warning:** There is a major flaw in this implementation. The selects on the multiplexer have 8 possible combinations and the multiplexer only reflects 5. What happens when I input something that is not represented in the code?
+> ⚠️ **Warning:** There is a major flaw in this implementation. The selects on the multiplexer have 8 possible combinations and the multiplexer only has 5 inputs. What happens when I select greater than 5?
