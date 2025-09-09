@@ -19,4 +19,6 @@ This answer was modified in order to meet the I/Os that the DE10-Lite board has 
 
 ## Part II
 
+I needed to modified the assignment in order to have a 2-to-1 multiplixer of 4bits instead of 8bits
+
 
