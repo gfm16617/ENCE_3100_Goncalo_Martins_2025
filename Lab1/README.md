@@ -15,7 +15,7 @@ For this report we are using the DE10-Lite board from Altera.
 
 This answer was modified in order to meet the I/Os that the DE10-Lite board has - 10 LEDs and 10 switches.
 
-<img src="picture_1.png" width="300">
+<img src="img/picture_1.png" width="300">
 
 ## Part II
 
